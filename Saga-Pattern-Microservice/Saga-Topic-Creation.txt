@@ -1,0 +1,55 @@
+kafka-topics.bat --create --topic saga-choreo-order-topic --bootstrap-server localhost:9092
+
+kafka-topics.bat --create --topic saga-inventory-out-topic --bootstrap-server localhost:9092
+
+
+kafka-topics.bat --create --topic saga-choreo-shipping-topic --bootstrap-server localhost:9092
+
+kafka-topics.bat --create --topic saga-choreo-order-complete-topic --bootstrap-server localhost:9092
+
+kafka-topics.bat --create --topic saga-choreo-order-cancel-topic --bootstrap-server localhost:9092
+
+
+kafka-topics.bat --create --topic saga-choreo-payment-cancel-topic --bootstrap-server localhost:9092
+
+
+kafka-topics.bat --create --topic saga-cancel-ship-topic --bootstrap-server localhost:9092
+
+--------------------------------
+All Good - Successful
+
+{
+  "orderId": 123,
+  "orderName": "Vivo Mobile",
+  "orderPrice": 13000,
+  "shipToAddress": "Bengaluru"
+}
+
+Failure Scenario 1 - Vivo Mobile - Inventory Service To Fail - Successful
+
+{
+  "orderId": 123,
+  "orderName": "Vivo Mobile",
+  "orderPrice": 13000,
+  "shipToAddress": "Bengaluru"
+}
+
+Failure Scenario 2 - Insufficient Fund- Payment Service To Fail - Successfull
+
+{
+  "orderId": 123,
+  "orderName": "Samsung Mobile",
+  "orderPrice": 63000,
+  "shipToAddress": "Bengaluru"
+}
+
+Failure Scenario 2 - Invalid Address- Payment Service To Fail - Successful
+
+{
+  "orderId": 123,
+  "orderName": "Samsung Mobile",
+  "orderPrice": 13000,
+  "shipToAddress": "Invalid Bengaluru"
+}
+
+link: https://www.youtube.com/watch?v=FQdpvNOMcSY

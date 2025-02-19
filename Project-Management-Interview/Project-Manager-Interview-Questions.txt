@@ -1,0 +1,78 @@
+I am a prolific programmer.
+
+
+What kind of diagrams/flowcharts would you use to describe X project?
+Ans: Flow Chart, UML Activity Diagram, MindMap
+
+You’re working on a project for an important client and they keep changing their requirements. How would you handle this?
+
+Ans:
+Articulate clearly
+
+1. Go back to your scope document, business case or project charter.
+2. Embrace the changes and respect their decision.
+Tell and help them to realize the real problems
+
+The project could take longer or finish earlier
+More resources could be required
+The result could be a different quality outcome to what was previously agreed
+The project could cost more.
+Marketing want the widget in blue and Customer Services want it to be orange – ask your Sponsor to arbitrate. It might be easier to get everyone in the same room to agree the final list
+take the time to explain to them that there is always a cost associated with making a change.
+The schedule, Resources, Other requirements(test cases), The budget, Project risks
+A decision is taken whether to implement the change or not.
+
+
+How would you explain to a customer and your manager that you won’t be able to complete a project on time?
+Ans:
+First acknowledge, Own it, Action Plan
+Take the existing management into confidence
+Explain and articulate and expound the problems
+Beg apology,
+Take the complete accountability
+Make a plan of Action about what to be delivered.
+
+
+How would you motivate a disengaged team member?
+Have one round of one to one discussion
+Remind them someone is watching.
+Set goals together for 1 week
+Appreciate and encourage them
+Put them in big picture
+Create a culture of opportunity.
+Try flexible working hours.
+
+
+What project management software have you used?
+Jira, OneNote, Microsoft Todo
+
+
+What is Agile
+Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer.
+
+Pros							Cons
+More flexible					Hard to predict
+Product get to market faster	Final product is not released first
+Better communication			Documentation gets left behind
+
+
+What is the most important stage in the project management cycle? Why?
+Ans:
+Project execution and monitoring phase. This is the main and most important stage of your entire project management life cycle. It is the actual start of the project
+
+
+10 Best Performance Appraisal Methods
+Ranking Method. The ranking method is possibly one of the oldest employee performance appraisal methods. ...
+Essay Appraisal. ...
+Paired Comparison. ...
+Checklist Method. ...
+Critical Incidents Method. ...
+Management by Objectives (MBO) ...
+Behaviourally Anchored Rating Scales (BARS) ...
+The OKR Method.
+
+
+Senior project managers require a high degree of professionalism when interacting with different stakeholders.To manage a project team, it's important to have strong communication skills and leadership abilities. It's also important for managers to provide teams with plenty of support and feedback so they can learn from their mistakes and make improvements. In my previous position as a project manager, I also found that making an effort to understand each team member's individual strengths and weaknesses was especially important for delegating tasks and assigning different responsibilities.
+
+
+

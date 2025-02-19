@@ -1,0 +1,3 @@
+Priority Queue pattern
+
+COMPETING CONSUMERS

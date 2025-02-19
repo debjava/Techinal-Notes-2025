@@ -1,0 +1,23 @@
+CQRS
+=======
+https://www.vinsguru.com/cqrs-pattern/
+
+https://github.com/vinsguru/vinsguru-blog-code-samples/tree/master/architectural-pattern/cqrs-pattern/src
+
+
+https://sgitario.github.io/axon-by-example/
+
+https://github.com/Sgitario/axon-getting-started
+
+==================
+https://www.baeldung.com/cqrs-event-sourcing-java
+
+Good Example of Event Sourcing
+https://fullstackdeveloper.guru/2022/06/17/how-to-implement-event-sourcing-in-spring-boot/
+
+https://www.vinsguru.com/event-carried-state-transfer/
+
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589800(v=pandp.10)
+
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589795(v=pandp.10)
+

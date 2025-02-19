@@ -1,0 +1,10 @@
+https://www.baeldung.com/spring-cloud-function
+
+Deployment into AWS
+Deployment into AWS with Environment Variable
+
+Deployment of Serverless with AWS Lambda with Spring Cloud
+
+NodeJS Architecture
+
+
